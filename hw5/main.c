@@ -5,6 +5,8 @@
 #define MAX_TASKS 20
 #define MAX_SEGS 1000
 
+// adding this comment so it pushes up.
+
 typedef struct {
   int pid;       /* unique process id from the file */
   int arrival;   /* time the task enters the ready queue */
